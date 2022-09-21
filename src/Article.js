@@ -7,3 +7,11 @@ function Article() {
 }
 
 export default Article;
+
+// import React from 'react';
+
+// class Article extends React.Component {
+//   render(){
+//     return <div>Dear Reader: Bjarne Stroudtrup has the perfect lecture oration. </div>
+//   }
+// }
